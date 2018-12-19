@@ -79,6 +79,8 @@ Module Program
         ConsoleWriteLine("The environment variables will be stored in the users environment and")
         ConsoleWriteLine("will be accessable from all newly created processes.")
         ConsoleWriteLine("")
+        ConsoleWriteLine("For More info:https://github.com/natebarkei/ExpandProfileVariables")
+        ConsoleWriteLine("")
     End Sub
 
 
